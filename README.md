@@ -6,7 +6,7 @@ Getting Started To get started with this project, you need to:
 
 Clone the repository:
 
-sh Copy code git clone https://github.com/yourusername/charity-foundation-project.git Navigate to the project directory:
+sh Copy code git clone https://github.com/abhishekanand0216/-abhishekanand0216-abhishekanand_new_project-/tree/main/abhishekanand_new_project Navigate to the project directory:
 
 sh Copy code cd charity-foundation-project Features Feature 1: [Describe the feature] Feature 2: [Describe the feature] Feature 3: [Describe the feature] Installation To set up the project locally, follow these steps:
 
